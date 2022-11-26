@@ -1,0 +1,14 @@
+{
+  "name": "test-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "firebase deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^11.16.1"
+  }
+}
